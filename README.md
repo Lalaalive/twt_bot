@@ -44,7 +44,7 @@ The bot will keep running and tweet daily at 06:00 AM.
 - In this version, I'm using the free Twitter API which does not allow automated posting. You may need an elevated API access level.
 - The bot runs indefinitely unless manually stopped.
 
-## Perspective
+## Perspectives
 
 - Using a cloud service to run this bot countinously
 
