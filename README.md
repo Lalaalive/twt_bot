@@ -24,7 +24,9 @@ The bot uses 'tweepy' for interacting with Twitter's API and 'schedule' for sche
     ```sh
     pip install -r requirements.txt
 
-3. Add your Twitter API credentials in the 'create_api()' function inside 'main.py':
+3. (Optional) Add your Twitter API credentials in the Authentification part inside 'check_keys.py' to verify if your credentials are correct and that your authentication is successful.
+   
+4. Add your Twitter API credentials in the 'create_api()' function inside 'main.py':
     ```sh
     consumer_key = "YOUR_CONSUMER_KEY"
     consumer_secret = "YOUR_CONSUMER_SECRET"
